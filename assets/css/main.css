@@ -143,7 +143,7 @@ input, select, textarea {
 		}
 
 		.icon > .label {
-			display: inline;
+			display: none;
 		}
 
 		.icon.solid:before {
